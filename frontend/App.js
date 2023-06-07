@@ -3,7 +3,7 @@ import IletisimFormu from './components/IletisimFormu';
 
 const App = () => {
   return (
-    <div>
+    <div data-testid="display">
       <nav className="navbar navbar-dark bg-dark">
         <a className="navbar-brand" href="#">Entegrasyon Test Projesi</a>
       </nav>
